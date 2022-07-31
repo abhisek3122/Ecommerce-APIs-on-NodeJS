@@ -1,0 +1,5 @@
+{
+    "PORT": 4043,
+    "BASE_URL": "127.0.0.1",
+    "TOKEN_SECRET": "APPTOKENSECRET" 
+}

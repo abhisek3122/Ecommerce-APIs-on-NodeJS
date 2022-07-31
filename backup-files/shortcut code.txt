@@ -1,0 +1,4 @@
+"buildclient": "cd angular_frontend && ng build",
+"runclient": "cd angular_frontend && npm start",
+"devstart": "nodemon ./bin/www",
+"dev": "npm run buildclient & concurrently --kill-others \"npm run runclient\" \"npm run devstart\""
