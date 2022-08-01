@@ -1,6 +1,6 @@
 # Ecommerce APIs on NodeJS and MongoDB
 
-Ecommerce RESTful APIs with CURD (Create, Update, Read, and Delete) options and security implementations such as
+Ecommerce RESTful APIs with CURD (Create, Update, Read, and Delete) options and security implementations integrated with Mongo NoSQL database such as
 - User registration, login, and email verification
 - JWT generation with secure HS256 configuration
 - Cartitems, Wishlist, and Photo Upload
